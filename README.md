@@ -1,3 +1,6 @@
+DOI Identifier: DOI 10.17605/OSF.IO/S7VHK
+Version 2.0
+
 # hello-world
 RENCI lunch and learn repo
 
