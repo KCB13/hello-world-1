@@ -1,6 +1,6 @@
-DOI Identifier: DOI 10.17605/OSF.IO/S7VHK
+## DOI Identifier: DOI 10.17605/OSF.IO/S7VHK
 
-Version: $Id:$
+## Version: $Id:$
 
 # hello-world
 RENCI lunch and learn repo
